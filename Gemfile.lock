@@ -1,7 +1,7 @@
 PATH
   remote: ../pg-eyeballs
   specs:
-    pg-eyeballs (0.1.0)
+    pg-eyeballs (1.0.0)
       activerecord (>= 4.0, < 5.0)
       pg
 
